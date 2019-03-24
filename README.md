@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54b34e98-3dd6-4402-9655-2df504499e99/deploy-status)](https://app.netlify.com/sites/muggle/deploys)
 
 ### Development mode
 
